@@ -1,4 +1,13 @@
-### Hi there 👋
+
+
+Opa! Bão!? 
+
+Comecei à me interessar por progrmação faz pouco tempo e decidi iniciar meu processo de transição de aréa.
+
+- 📸 Sou formado em fotografia e comunicação visual.
+- 🌱 Atualmente aprendendo o básico sobre progrmação e pretendo focar em front-end.
+- 📫 Quer falar comigo? me procura no twitter @ivandeoliveira.
+
 
 <!--
 **ivandoliveira/ivandoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
